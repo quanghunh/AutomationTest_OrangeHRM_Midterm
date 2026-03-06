@@ -6,12 +6,12 @@
    <elementGuidId>98f37762-884b-44f5-adc7-08d87796c4f0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.oxd-topbar-body-nav-tab-item</value>
+         <key>XPATH</key>
+         <value>//a[text()='Employee List']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/div/header/div[2]/nav/ul/li[2]/a</value>
+         <key>CSS</key>
+         <value>a.oxd-topbar-body-nav-tab-item</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>067fd4f8-9b3d-4751-a502-e28f5d58e188</webElementGuid>
+      <webElementGuid>fe0d95a1-f35a-4b22-96ea-42e2ed5125e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-topbar-body-nav-tab-item</value>
-      <webElementGuid>57a430f5-23d4-445e-abe8-cc28f4f45cb3</webElementGuid>
+      <webElementGuid>04368836-d7ff-4247-83ff-b356e17bc84c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>e7163157-46ad-4d72-9285-3877f60da265</webElementGuid>
+      <webElementGuid>9a4c6db7-3bf9-47f4-890f-67406669936f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Employee List</value>
-      <webElementGuid>e580fc07-5d74-43df-b65b-92f128832a79</webElementGuid>
+      <webElementGuid>b75c0f5d-622d-4ad4-9fbb-3c1e411cf06c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-body&quot;]/nav[@class=&quot;oxd-topbar-body-nav&quot;]/ul[1]/li[@class=&quot;oxd-topbar-body-nav-tab --visited&quot;]/a[@class=&quot;oxd-topbar-body-nav-tab-item&quot;]</value>
-      <webElementGuid>c969a6d2-27df-4643-bf2b-0d2b796c9989</webElementGuid>
+      <webElementGuid>c6cf55ab-5089-4042-8ef4-142b2433f6c9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/header/div[2]/nav/ul/li[2]/a</value>
-      <webElementGuid>d144a399-44d4-4c1d-a6f2-e5bd92635b2c</webElementGuid>
+      <webElementGuid>8a7381c5-b15d-4641-aa85-240e3badf53e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Employee List')]</value>
-      <webElementGuid>9040738e-6597-4db6-8338-19db23925f05</webElementGuid>
+      <webElementGuid>4770d7e4-905a-4598-89ea-276fe67c408f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/following::a[1]</value>
-      <webElementGuid>5f369f29-167c-49fb-b633-6547e4ef8e3d</webElementGuid>
+      <webElementGuid>992200bf-938e-4adf-ad2e-72c8c59d6fda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Name'])[1]/preceding::a[3]</value>
-      <webElementGuid>e66752cf-a365-4e69-961c-5832372a2c07</webElementGuid>
+      <webElementGuid>b324ee48-78fe-4ceb-86f3-905126906ddd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Employee List']/parent::*</value>
-      <webElementGuid>32f0a2d3-c21f-4cfa-9bec-975056d3c6fb</webElementGuid>
+      <webElementGuid>0b0c9256-3a77-4d8f-b407-cf658b8ac5ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#')]</value>
-      <webElementGuid>3711de08-9225-4e89-90e5-a9c3b29749f3</webElementGuid>
+      <webElementGuid>f2591e4d-e292-4c00-b616-bc9cdcd5c193</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//nav/ul/li[2]/a</value>
-      <webElementGuid>5a70e346-b318-4846-8483-286235dbd412</webElementGuid>
+      <webElementGuid>a1b3e4bc-6f82-4019-b88f-ac394849f90a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Employee List' or . = 'Employee List')]</value>
-      <webElementGuid>c2a4fe25-da63-4ec8-b796-dcf74e3bd399</webElementGuid>
+      <webElementGuid>31099a31-d04b-4229-ae32-4149d3ba92a3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

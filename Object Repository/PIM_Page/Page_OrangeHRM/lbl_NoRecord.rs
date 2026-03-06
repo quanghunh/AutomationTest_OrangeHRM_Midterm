@@ -6,12 +6,12 @@
    <elementGuidId>1f4cd2a8-b756-41d9-b3e6-52166aecae6e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.orangehrm-horizontal-padding.orangehrm-vertical-padding > span.oxd-text.oxd-text--span</value>
+         <key>XPATH</key>
+         <value>//span[text()='No Records Found']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[2]/div/span</value>
+         <key>CSS</key>
+         <value>div.orangehrm-horizontal-padding.orangehrm-vertical-padding > span.oxd-text.oxd-text--span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>0f748bde-c42d-43e5-a93f-98f6ead791b3</webElementGuid>
+      <webElementGuid>7ac2daed-804c-4b73-b583-2d8c525110ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-text oxd-text--span</value>
-      <webElementGuid>00552550-8c24-485c-b475-00fb5a0eae7d</webElementGuid>
+      <webElementGuid>86ba769a-594f-40d2-b7ce-719054eefb5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>No Records Found</value>
-      <webElementGuid>57e24016-23fb-4060-a647-17446e5f4ee5</webElementGuid>
+      <webElementGuid>f0cd9116-6f18-4820-bfa0-32de08deff7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[2]/div[@class=&quot;orangehrm-horizontal-padding orangehrm-vertical-padding&quot;]/span[@class=&quot;oxd-text oxd-text--span&quot;]</value>
-      <webElementGuid>df30b197-160d-4539-8335-77fa4e3f0a6b</webElementGuid>
+      <webElementGuid>1b7a8ed7-7788-43a9-979a-7feda964d4f7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[2]/div/span</value>
-      <webElementGuid>12bc58e3-2a83-4e61-92d6-e1a0dfad2b52</webElementGuid>
+      <webElementGuid>1d15be6e-e091-4481-b764-070b1ac83d36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='No Records Found']/parent::*</value>
-      <webElementGuid>c91a6efa-02ba-4a85-865d-0f4c97b08fe5</webElementGuid>
+      <webElementGuid>90d1d3f4-1665-43de-bfbb-414624e73d79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/span</value>
-      <webElementGuid>8465ab61-9010-4f21-8a9a-5ed45f5ca2a1</webElementGuid>
+      <webElementGuid>3e30a3e4-3669-4a53-aac5-480968153897</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'No Records Found' or . = 'No Records Found')]</value>
-      <webElementGuid>aac52c89-6a23-4021-ae9f-1dcbacf8048e</webElementGuid>
+      <webElementGuid>da1352ce-a6ca-4e4a-96c7-59a01f77e3dc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

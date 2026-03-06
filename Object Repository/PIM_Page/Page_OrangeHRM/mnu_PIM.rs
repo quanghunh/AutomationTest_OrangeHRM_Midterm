@@ -6,12 +6,12 @@
    <elementGuidId>030f7d11-114d-4a72-8437-50eff2055ee5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.oxd-main-menu-item.active > span.oxd-text.oxd-text--span.oxd-main-menu-item--name</value>
+         <key>XPATH</key>
+         <value>//span[text()='PIM']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[2]/a/span</value>
+         <key>CSS</key>
+         <value>a.oxd-main-menu-item.active > span.oxd-text.oxd-text--span.oxd-main-menu-item--name</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>3c0f7374-e506-4e95-bc7c-97dfb838d11a</webElementGuid>
+      <webElementGuid>d61ed527-0888-4670-a5ab-2ff093de1fcc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-text oxd-text--span oxd-main-menu-item--name</value>
-      <webElementGuid>3eae75f1-83d4-49b2-aac3-cb01ea4f8a68</webElementGuid>
+      <webElementGuid>48befa3c-df85-47a0-92ca-1810c06acf19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>PIM</value>
-      <webElementGuid>8933fc5d-bc03-40bb-a2f8-c01d081168cc</webElementGuid>
+      <webElementGuid>62af77dd-dde2-478c-b984-6c7f8e280822</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item active&quot;]/span[@class=&quot;oxd-text oxd-text--span oxd-main-menu-item--name&quot;]</value>
-      <webElementGuid>66a8c368-4bfd-4400-80c3-d0686aad3d90</webElementGuid>
+      <webElementGuid>599d2e39-58e1-4199-a073-6f8c15372393</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[2]/a/span</value>
-      <webElementGuid>41a1610b-91ff-40ec-b11e-026e4b0bf7c8</webElementGuid>
+      <webElementGuid>8bfe3667-0763-43be-8dea-738b85f31ac1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='PIM']/parent::*</value>
-      <webElementGuid>3f3ac360-bfdf-44f5-b2a5-abfc7b0516bd</webElementGuid>
+      <webElementGuid>2f29fbb3-7e6c-481e-af6f-19d72d6567a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a/span</value>
-      <webElementGuid>7aa37cf3-f4ab-4493-92cf-01a74c1e8da2</webElementGuid>
+      <webElementGuid>873303dc-8534-4662-bebf-92b4202783df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'PIM' or . = 'PIM')]</value>
-      <webElementGuid>05b085e8-326d-44e8-a56f-05e6efd6835d</webElementGuid>
+      <webElementGuid>815b2d65-967e-4006-9033-dceda14975de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
