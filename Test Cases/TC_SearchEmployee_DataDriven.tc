@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Login_DataDriven</name>
+   <name>TC_SearchEmployee_DataDriven</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>b995a5e9-722a-4023-b5e8-389db2527767</testCaseGuid>
+   <testCaseGuid>6675267c-6c1f-4288-a668-911e5e94c734</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>65a9932d-4df4-40b5-b136-eb81ab6bf450</variableId>
+      <variableId>767cedc3-10d9-412b-b15e-54eb42db444c</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>dae334f1-85b7-4679-9fff-4811ef969660</variableId>
+      <variableId>5315dc62-ae90-4eca-848e-50ba00332fc1</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>bd62ab71-1e67-45e6-ab9e-4f2d63809d99</variableId>
+      <variableId>f33ae3b5-72de-40dd-af91-ea2f2dbd4fe4</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>65a9932d-4df4-40b5-b136-eb81ab6bf450</id>
+      <id>767cedc3-10d9-412b-b15e-54eb42db444c</id>
       <masked>false</masked>
-      <name>username</name>
+      <name>keyword</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>dae334f1-85b7-4679-9fff-4811ef969660</id>
+      <id>5315dc62-ae90-4eca-848e-50ba00332fc1</id>
       <masked>false</masked>
-      <name>password</name>
+      <name>expectedName</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>bd62ab71-1e67-45e6-ab9e-4f2d63809d99</id>
+      <id>f33ae3b5-72de-40dd-af91-ea2f2dbd4fe4</id>
       <masked>false</masked>
-      <name>expectedResult</name>
+      <name>shouldFound</name>
    </variable>
 </TestCaseEntity>
